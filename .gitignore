@@ -248,3 +248,4 @@ Dota2GSI/nuget.exe
 # NuGet v3's project.json files produces more ignoreable files
 *.nuget.props
 *.nuget.targets
+Dota2GSI/Heap-20211009T121056.heapprofile
